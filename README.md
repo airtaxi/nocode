@@ -1,54 +1,52 @@
 # No Code
 
 No code는 신뢰성이 높고 보안이 철저한 애플리케이션을 제작하기 위한 최고의 방식입니다. 아무것도 쓰지마세요, 배포도 하지말고요.
-No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
-## Getting Started
+## 시작하기
 
-Start by not writing any code.
+아무것도 적지 말고 시작하세요
+```
+
+```
+
+위 코드는 단순히 예제입니다. 하지만 이걸로 당신이 할 수 있는 모든것을 상상해보세요.
+
+새로운 기능을 추가하는것도 아래와 같이 아주 쉽습니다:
+
+```
+
+```
+정말 가능성이 무궁무진하죠.
+
+### 애플리케이션 빌드하기
+
+자, 이제 아래와 같이 애플리케이션을 빌드해볼까요?
 
 ```
 
 ```
 
-This is just an example application, but imagine it doing anything you want. Adding new features is easy too:
+네, 이게 답니다. 이제 아래와 같은 출력 결과물을 보실겁니다.
 
 ```
 
 ```
 
-The possibilities are endless.
-
-### Building the Application
-
-Now that you have not done anything it's time to build your application:
+### 배포하기
+당신은 아무것도 안하고 있지만 이제 곧 당신의 애플리케이션을 배포할 차례군요.
+아래와 같은 코드를 실행함으로써 당신의 애플리케이션을 아무것도 아닌곳에 배포할 수 있습니다.
 
 ```
 
 ```
 
-Yep. That's it. You should see the following output:
+보이는대로 정말 간단합니다. 그리고 이 애플리케이션의 크기를 키울때가 됐다면, 당신이 해야 할 것은 아래와 같습니다:
 
 ```
 
 ```
+그렇죠?
 
-### Deploying
+## 기여하기
 
-While you still have not done anything it's time to deploy your application. By running the following command you can deploy your application absolutely nowhere.
-
-```
-
-```
-
-It's that simple. And when it comes time to scale the application, all you have to do is:
-
-```
-
-```
-
-I know right?
-
-## Contributing
-
-You don't.
+안돼요.
